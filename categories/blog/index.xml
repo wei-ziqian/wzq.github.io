@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on ZIQIAN WEI</title>
+    <link>https://wei-ziqian.github.io/categories/blog/</link>
+    <description>Recent content in Blog on ZIQIAN WEI</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 Ziqian Wei</copyright>
+    <lastBuildDate>Fri, 04 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://wei-ziqian.github.io/categories/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Publications</title>
+      <link>https://wei-ziqian.github.io/pub/</link>
+      <pubDate>Fri, 04 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://wei-ziqian.github.io/pub/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean in eleifend justo, vestibulum congue lacus. Quisque est libero, lacinia sed placerat ac, interdum id urna.</description>
+      
+    </item>
+    
+    <item>
+      <title>Working on my personal academic website!</title>
+      <link>https://wei-ziqian.github.io/posts/post-lite-one/</link>
+      <pubDate>Fri, 04 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://wei-ziqian.github.io/posts/post-lite-one/</guid>
+      <description>I was inspired by a friend and decieded to create a personal website using Hogo and Blowfish.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

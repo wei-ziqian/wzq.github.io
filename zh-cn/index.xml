@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ZIQIAN WEI</title>
+    <link>https://wei-ziqian.github.io/zh-cn/</link>
+    <description>Recent content on ZIQIAN WEI</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <copyright>© 2025 韦子谦</copyright>
+    <lastBuildDate>Fri, 04 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://wei-ziqian.github.io/zh-cn/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Publications</title>
+      <link>https://wei-ziqian.github.io/zh-cn/pub/</link>
+      <pubDate>Fri, 04 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://wei-ziqian.github.io/zh-cn/pub/</guid>
+      <description>从研究生、全职科研助理，到博士生，我参与的研究项目。</description>
+      
+    </item>
+    
+    <item>
+      <title>制作我的个人学术网站！</title>
+      <link>https://wei-ziqian.github.io/zh-cn/posts/post-lite-one/</link>
+      <pubDate>Fri, 04 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://wei-ziqian.github.io/zh-cn/posts/post-lite-one/</guid>
+      <description>我受到朋友的启发，决定使用 Hugo 和 Blowfish 创建一个个人网站。</description>
+      
+    </item>
+    
+    <item>
+      <title>个人简历</title>
+      <link>https://wei-ziqian.github.io/zh-cn/cv/</link>
+      <pubDate>Thu, 03 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://wei-ziqian.github.io/zh-cn/cv/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean in eleifend justo, vestibulum congue lacus. Quisque est libero, lacinia sed placerat ac, interdum id urna.</description>
+      
+    </item>
+    
+  </channel>
+</rss>
